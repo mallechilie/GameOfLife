@@ -1,0 +1,10 @@
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\template.exe.config
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\template.exe
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\template.pdb
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\Cloo.dll
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\OpenTK.dll
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\bin\Debug\Cloo.xml
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\obj\Debug\template.exe
+C:\Users\Michiel\Documents\Visual Studio 2015\Projects\GameOfLife\template_CL_2017-2018\obj\Debug\template.pdb
